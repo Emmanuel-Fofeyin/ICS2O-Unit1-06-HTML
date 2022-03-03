@@ -1,7 +1,6 @@
 # ICS2O-Unit1-06-HTML
 
-[![GitHub's Super Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
-
+[![GitHub's Super Linter](https://github.com/Emmanuel-Fofeyin/ICS2O-Unit1-06-HTML/actions/workflows/main.yml/badge.svg)](https://github.com/Emmanuel-Fofeyin/ICS2O-Unit1-06-HTML/actions/workflows/main.yml)
 
 [![Run on Repl.it](https://repl.it/badge/github/<OWNER>/<REPOSITORY>)](https://repl.it/github/<OWNER>/<REPOSITORY>)
 
